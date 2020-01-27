@@ -1,4 +1,4 @@
-# vue3-ts
+# vue-composition-api-ts-playground
 
 ## Project setup
 ```
